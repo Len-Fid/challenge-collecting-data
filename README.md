@@ -1,6 +1,6 @@
 # challenge-collecting-data
 
-### Team name? (We have to come up with one 😆 - Anika)
+### Team name: Bertlenika
 
 # Things to add:
 * Description
@@ -13,7 +13,7 @@
 
 
 ## Steps
-* get 10000 links
+* get 10,000 links
 * get data from links
 * see where all required data is saved
 * clean data (empty rows, numerical values, etc.)
