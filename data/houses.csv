@@ -1,0 +1,3 @@
+,Location,Property type,Property subtype,Price,Type of sale,Number of bedrooms,Living area,Kitchen,Furnished,Open fireplace,Terrace,Terrace orientation,Garden,Garden orientation,Surface area land,Number of facades,Pool,Condition
+0,Drogenbos,APARTMENT,APARTMENT,199500,residential_sale,1,60,Unknown,False,False,True,SOUTH_WEST,Unknown,Unknown,NaN,,False,Unknown
+1,Zwalm,HOUSE,HOUSE,595000,residential_sale,5,234,INSTALLED,False,False,True,Unknown,True,Unknown,1662,3.0,False,GOOD
