@@ -8,10 +8,10 @@ Like any other consumer market, the real estate market is constantly expanding, 
 To fulfil the requirements of the challenge, the team built a web scraper using Python. Our prepared workspace involved the use of an IDE/text editor,  plus the necessary libraries (ie Selenium, BeautifulSoup, and Pandas). 
 
 **Walk through of this DIY scraping challenge:**
-:heavy_check_mark: Locating elements of the source code
-:heavy_check_mark: Extracting targeted elements (links) asynchronously per web get and saving these links by creating a list in a soup file for parsing
-:heavy_check_mark: Creating a data frame using pandas for approximately 10,000 inputs
-:heavy_check_mark: Saving everything in a CSV file
+:heavy_check_mark: Locating elements of the source code \n
+:heavy_check_mark: Extracting targeted elements (links) asynchronously per web get and saving these links by creating a list in a soup file for parsing \n
+:heavy_check_mark: Creating a data frame using pandas for approximately 10,000 inputs \n
+:heavy_check_mark: Saving everything in a CSV file \n
 
 ## Installation
 
