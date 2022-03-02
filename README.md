@@ -8,7 +8,7 @@ Like any other consumer market, the real estate market is constantly expanding, 
 To fulfill the requirements of the challenge, the team built a web scraper using Python. Our prepared workspace involved the use of an IDE/text editor,  plus the necessary libraries (ie Selenium, BeautifulSoup, and Pandas). 
 
 **Walk through of this DIY scraping challenge:**
-- Locating elements of the source code 
+- Locating elements of the source code of the requisite URL from the **https://www.immoweb.be/en** web site.
 - Extracting targeted elements (links) asynchronously per web get and saving these links by creating a list in a soup file for parsing 
 - Creating a data frame using pandas for approximately 10,000 inputs 
 - Saving everything in a CSV file 
