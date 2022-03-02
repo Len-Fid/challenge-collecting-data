@@ -1,0 +1,39 @@
+,Location,Property type,Property subtype,Price,Type of sale,Number of bedrooms,Living area,Kitchen,Furnished,Open fireplace,Terrace,Terrace orientation,Garden,Garden orientation,Surface area land,Number of facades,Pool,Condition
+0,Kortenberg,HOUSE,VILLA,459000,residential_sale,3,157.0,USA_HYPER_EQUIPPED,False,True,True,WEST,True,WEST,194,4,,AS_NEW
+1,Oostende,HOUSE,HOUSE,275000,residential_sale,3,,INSTALLED,False,False,True,Unknown,Unknown,Unknown,0,,False,GOOD
+2,Zonnebeke,HOUSE,HOUSE,215000,residential_sale,2,,INSTALLED,False,False,True,Unknown,True,SOUTH_WEST,529,3,,TO_BE_DONE_UP
+3,Ieper,HOUSE,HOUSE,345000,residential_sale,3,,INSTALLED,False,False,True,Unknown,Unknown,Unknown,2685,4,,TO_BE_DONE_UP
+4,Roeselare,HOUSE,HOUSE,239000,residential_sale,3,193.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,149,2,,GOOD
+5,Roeselare,HOUSE,HOUSE,270000,residential_sale,3,148.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,True,SOUTH,173,2,,GOOD
+6,Linkebeek,HOUSE,HOUSE,565000,residential_sale,3,140.0,USA_INSTALLED,False,True,True,Unknown,True,SOUTH_EAST,500,,,AS_NEW
+7,Blaton,HOUSE,HOUSE,240000,residential_sale,2,167.0,INSTALLED,False,False,True,Unknown,Unknown,Unknown,972,4,,
+8,Kortenberg,HOUSE,VILLA,459000,residential_sale,3,157.0,USA_HYPER_EQUIPPED,False,True,True,WEST,True,WEST,194,4,,AS_NEW
+9,Oostende,HOUSE,HOUSE,275000,residential_sale,3,,INSTALLED,False,False,True,Unknown,Unknown,Unknown,0,,False,GOOD
+10,Zonnebeke,HOUSE,HOUSE,215000,residential_sale,2,,INSTALLED,False,False,True,Unknown,True,SOUTH_WEST,529,3,,TO_BE_DONE_UP
+11,Ieper,HOUSE,HOUSE,345000,residential_sale,3,,INSTALLED,False,False,True,Unknown,Unknown,Unknown,2685,4,,TO_BE_DONE_UP
+12,Roeselare,HOUSE,HOUSE,239000,residential_sale,3,193.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,149,2,,GOOD
+13,Roeselare,HOUSE,HOUSE,270000,residential_sale,3,148.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,True,SOUTH,173,2,,GOOD
+14,Linkebeek,HOUSE,HOUSE,565000,residential_sale,3,140.0,USA_INSTALLED,False,True,True,Unknown,True,SOUTH_EAST,500,,,AS_NEW
+15,Blaton,HOUSE,HOUSE,240000,residential_sale,2,167.0,INSTALLED,False,False,True,Unknown,Unknown,Unknown,972,4,,
+16,Moen,HOUSE,HOUSE,224000,residential_sale,3,,INSTALLED,False,False,Unknown,Unknown,Unknown,Unknown,232,2,,JUST_RENOVATED
+17,WORTEGEM,HOUSE,OTHER_PROPERTY,1499000,residential_sale,7,600.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,10899,4,,
+18,WORTEGEM,HOUSE,OTHER_PROPERTY,1499000,residential_sale,7,600.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,10899,4,,
+19,WORTEGEM,HOUSE,MANSION,1499000,residential_sale,7,600.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,10899,4,,
+20,WORTEGEM,HOUSE,CASTLE,1499000,residential_sale,7,600.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,Unknown,Unknown,10899,4,,
+21,Herent,HOUSE,HOUSE,600000,residential_sale,3,,Unknown,False,True,True,Unknown,True,Unknown,970,4,True,
+22,Hannut,HOUSE,HOUSE,240000,residential_sale,3,,Unknown,False,False,True,Unknown,Unknown,Unknown,401,Unknown,,Unknown
+23,Romsée,HOUSE,HOUSE,95000,first_session_with_reserve_price,2,104.0,,,False,Unknown,Unknown,Unknown,Unknown,353,3,,TO_RENOVATE
+24,Borgloon,HOUSE,HOUSE,365000,residential_sale,3,264.0,INSTALLED,False,False,True,Unknown,Unknown,Unknown,330,2,,GOOD
+25,Loncin,HOUSE,HOUSE,369000,residential_sale,4,,Unknown,,False,True,Unknown,True,Unknown,850,3,True,GOOD
+26,DE KLINGE,HOUSE,HOUSE,125000,residential_sale,2,97.0,Unknown,False,False,True,Unknown,Unknown,Unknown,160,2,,TO_BE_DONE_UP
+27,Herve,HOUSE,HOUSE,160000,residential_sale,2,65.0,,,False,Unknown,Unknown,True,NORTH,22,2,,GOOD
+28,MARCOURT,HOUSE,HOUSE,490000,residential_sale,5,322.0,INSTALLED,False,False,True,Unknown,True,Unknown,1623,4,,
+29,BEAUSAINT,HOUSE,HOUSE,165000,residential_sale,2,75.0,INSTALLED,False,False,True,Unknown,True,Unknown,139,2,,JUST_RENOVATED
+30,Rendeux,HOUSE,HOUSE,259000,residential_sale,4,200.0,INSTALLED,False,False,True,Unknown,True,Unknown,2188,4,,GOOD
+31,Tubize,HOUSE,MIXED_USE_BUILDING,350000,residential_sale,0,,Unknown,False,False,Unknown,Unknown,Unknown,Unknown,1286,Unknown,False,Unknown
+32,SINT-NIKLAAS,HOUSE,HOUSE,295000,residential_sale,4,189.0,NOT_INSTALLED,False,False,Unknown,Unknown,True,EAST,0,2,,GOOD
+33,WANFERCÉE-BAULET,HOUSE,HOUSE,350000,residential_sale,6,335.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,True,SOUTH,1095,4,,GOOD
+34,LAEKEN (BRU.),HOUSE,APARTMENT_BLOCK,570000,residential_sale,0,260.0,NOT_INSTALLED,False,False,Unknown,Unknown,Unknown,Unknown,140,2,,GOOD
+35,Beersel,HOUSE,HOUSE,375000,residential_sale,4,125.0,Unknown,False,False,Unknown,Unknown,Unknown,Unknown,721,,,TO_RENOVATE
+36,Feneur,HOUSE,FARMHOUSE,395000,residential_sale,6,192.0,Unknown,False,False,Unknown,Unknown,Unknown,Unknown,6659,3,,
+37,Gilly,HOUSE,HOUSE,159000,residential_sale,2,92.0,SEMI_EQUIPPED,False,False,Unknown,Unknown,True,SOUTH_WEST,184,3,,GOOD
