@@ -1,0 +1,31 @@
+,location,property_type,property_subtype,price,bedrooms,living_area,equipped_kitchen,furnished,open_fire,terrace,garden,surface_area_land,facades,swimming_pool
+0,"('Brussels City', '1000')",APARTMENT,APARTMENT,165000.0,0.0,26.0,USA_HYPER_EQUIPPED,Yes,No,No,No,None,2,No
+1,"('Arendonk', '2370')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,No,No,No,No,None,N/A,No
+2,"('Anderlecht', '1070')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,No,No,No,No,None,N/A,No
+3,"('Evere', '1140')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,No,No,No,No,None,N/A,No
+4,"('Evere', '1140')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+5,"('Ronse', '9600')",HOUSE,HOUSE,255000.0,3.0,181.0,INSTALLED,No,No,"Yes,",Yes,678,4,No
+6,"('Antwerp', '2018')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,No,No,No,No,None,N/A,No
+7,"('De Haan', '8420')",HOUSE,HOUSE,1650000.0,4.0,499.0,HYPER_EQUIPPED,No,Yes,No,Yes,760,4,No
+8,"('Anderlecht', '1070')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+9,"('Liège', '4000')",APARTMENT,APARTMENT,229000.0,2.0,110.0,INSTALLED,No,No,No,No,None,,No
+10,"('Buizingen', '1501')",APARTMENT,APARTMENT,235000.0,3.0,80.0,INSTALLED,No,No,"Yes,",N/A,None,2,No
+11,"('St-Gilles', '1060')",APARTMENT,APARTMENT,240000.0,1.0,74.0,INSTALLED,No,No,No,No,,2,No
+12,"('Blankenberge', '8370')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,No,No,No,No,None,N/A,No
+13,"('Roeselare', '8800')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+14,"('Schaerbeek', '1030')",APARTMENT,APARTMENT,295000.0,2.0,105.0,INSTALLED,No,No,"Yes,",N/A,None,,No
+15,"(""Braine-l'Alleud"", '1420')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+16,"('Knokke-Heist', '8301')",APARTMENT,APARTMENT,385000.0,1.0,37.0,USA_HYPER_EQUIPPED,Yes,No,"Yes,",N/A,None,2,No
+17,"('Gent', '9000')",APARTMENT,APARTMENT,389000.0,2.0,110.0,HYPER_EQUIPPED,No,No,"Yes,",N/A,,2,No
+18,"('Bruxelles', '1000')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+19,"('Merelbeke', '9820')",HOUSE,HOUSE,419000.0,3.0,188.0,HYPER_EQUIPPED,No,No,"Yes,",Yes,430,2,No
+20,"('Merelbeke', '9820')",HOUSE,HOUSE,459000.0,3.0,164.0,HYPER_EQUIPPED,No,No,"Yes,",Yes,426,3,No
+21,"('Ixelles', '1050')",APARTMENT,APARTMENT,1839000.0,3.0,203.0,HYPER_EQUIPPED,No,No,"Yes,",N/A,None,2,No
+22,"('Antwerp', '2018')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+23,"('Liège', '4000')",HOUSE,HOUSE,149000.0,2.0,134.0,INSTALLED,No,No,"Yes,",Yes,967,3,No
+24,"('Herstal', '4040')",HOUSE,HOUSE,149000.0,5.0,198.0,SEMI_EQUIPPED,No,No,No,Yes,388,2,No
+25,"('Soumagne', '4630')",HOUSE,HOUSE,149000.0,2.0,80.0,NOT_INSTALLED,No,No,"Yes,",N/A,130,3,No
+26,"('Ronse', '9600')",HOUSE,HOUSE,159000.0,2.0,155.0,SEMI_EQUIPPED,No,No,"Yes,",Yes,150,2,No
+27,"('Blankenberge', '8370')",APARTMENT,APARTMENT,175000.0,0.0,37.0,INSTALLED,Yes,No,"Yes,",N/A,,2,No
+28,"('Namur', '5001')",APARTMENT_GROUP,APARTMENT_GROUP,,,,Unknown,N/A,No,No,No,None,N/A,No
+29,"('Trooz', '4870')",HOUSE,HOUSE,219000.0,5.0,278.0,NOT_INSTALLED,No,No,"Yes,",Yes,1091,3,No
