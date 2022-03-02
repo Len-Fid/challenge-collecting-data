@@ -393,3 +393,4 @@ DevTools listening on ws://localhost:44759/devtools/browser/0c821de2-8596-4cac-b
 1646056862518	Marionette	INFO	Listening on port 34973
 1646056862571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1646056882249	Marionette	INFO	Stopped listening on port 34973
+1646140527764	geckodriver	INFO	Listening on 127.0.0.1:55868
